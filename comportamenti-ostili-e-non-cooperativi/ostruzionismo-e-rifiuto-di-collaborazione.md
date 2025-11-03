@@ -20,7 +20,7 @@ Uno screenshare si basa su un principio di collaborazione, seppur forzata, tra l
 * **Descrizione:** Si verifica quando il player, dopo aver concesso l'accesso, chiude intenzionalmente il software di controllo remoto (AnyDesk, TeamViewer) o interrompe la propria connessione a Internet per terminare la sessione.
 * **Distinzione Cruciale:** È fondamentale distinguere un'azione intenzionale da un problema tecnico legittimo (crash di connessione).
   * **Azione Intenzionale:** Spesso avviene in un momento critico del controllo (es. mentre lo staffer sta analizzando un file sospetto) e non è preceduta da segni di instabilità di rete.
-  * **Problema Tecnico:** Può essere preceduto da lag, disconnessioni vocali o messaggi di errore del software di controllo remoto. In questi casi, lo staffer deve attendere un tempo ragionevole (`TODO: Definire un tempo di attesa, es. 5-10 minuti`) per permettere al player di riconnettersi.
+  * **Problema Tecnico:** Può essere preceduto da lag, disconnessioni vocali o messaggi di errore del software di controllo remoto. In questi casi, lo staffer deve attendere per regolamento massimo `7 minuti` per permettere al player di riconnettersi, sarà poi a discrezione dello Staffer aspettare di più.
 * **Gestione:** Se l'interruzione è ritenuta intenzionale, equivale a un rifiuto del controllo e viene sanzionata di conseguenza.
 
 ***
