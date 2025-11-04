@@ -10,9 +10,24 @@ Le sanzioni elencate di seguito sono soggette a revisione da parte del SS Manage
 
 ***
 
-#### Tabella delle Infrazioni e Sanzioni
+#### Tabella delle Infrazioni e Sanzioni Consigliate
 
-<table><thead><tr><th width="241">Infrazione</th><th width="395">Motivazione Ufficiale</th><th>Durata</th></tr></thead><tbody><tr><td><strong>Disabilitazione di Servizi Critici</strong></td><td><code>Anti-Forensics / Ostruzione del Controllo</code></td><td><code>TODO</code></td></tr><tr><td><strong>Cancellazione di Artefatti Forensi</strong></td><td><code>Anti-Forensics / Distruzione di Prove</code></td><td><code>TODO</code></td></tr><tr><td><strong>Manipolazione di Timestamp (Timestomping)</strong></td><td><code>Anti-Forensics / Alterazione di Prove</code></td><td><code>TODO</code></td></tr><tr><td><strong>Manipolazione di Attributi (es. Read-Only)</strong></td><td><code>Anti-Forensics / Alterazione di Prove</code></td><td><code>TODO</code></td></tr><tr><td><strong>Utilizzo di Partizioni/Drive per Occultamento</strong></td><td><code>Anti-Forensics / Occultamento di Prove</code></td><td><code>TODO</code></td></tr><tr><td><strong>Rifiuto Esplicito del Controllo</strong></td><td><code>Rifiuto di Collaborazione</code></td><td><code>TODO</code></td></tr><tr><td><strong>Interruzione della Connessione Remota</strong></td><td><code>Ostruzione del Controllo</code></td><td><code>TODO</code></td></tr><tr><td><strong>Riavvio o Spegnimento non Autorizzato</strong></td><td><code>Ostruzione Grave del Controllo</code></td><td><code>TODO</code></td></tr><tr><td><strong>Ostruzionismo Attivo/Passivo</strong></td><td><code>Ostruzione del Controllo</code></td><td><code>TODO</code></td></tr><tr><td><strong>Utilizzo di Ambienti Virtualizzati (VM)</strong></td><td><code>Bypass / Ostruzione tramite Virtualizzazione</code></td><td><code>TODO</code></td></tr><tr><td><strong>Esecuzioni "Fileless"</strong></td><td><code>Bypass Avanzato / Esecuzione Nascosta</code></td><td><code>TODO</code></td></tr><tr><td><strong>Utilizzo del Task Scheduler (per bypass)</strong></td><td><code>Bypass Avanzato / Persistenza Illecita</code></td><td><code>TODO</code></td></tr><tr><td><strong>Utilizzo di ADS e WMIC (per bypass)</strong></td><td><code>Bypass Avanzato / Occultamento Tramite ADS</code></td><td><code>TODO</code></td></tr><tr><td><strong>Process Hollowing</strong></td><td><code>Bypass Avanzato / Iniezione di Codice</code></td><td><code>TODO</code></td></tr></tbody></table>
+| Infrazione                                        | Motivazione Ufficiale Consigliata | Durata Consigliata       |
+| ------------------------------------------------- | --------------------------------- | ------------------------ |
+| **Disabilitazione di Servizi Critici**            | `Processi Disabilitati`           | `Da definire dal server` |
+| **Cancellazione di Artefatti Forensi**            | `Pulizia di Artefatti`            | `Da definire dal server` |
+| **Manipolazione di Timestamp (Timestomping)**     | `Alterazione di Prove`            | `Da definire dal server` |
+| **Manipolazione di Attributi (es. Read-Only)**    | `Alterazione di Prove`            | `Da definire dal server` |
+| **Utilizzo di Partizioni/Drive per Occultamento** | `Occultamento di Prove`           | `Da definire dal server` |
+| **Rifiuto Esplicito del Controllo**               | `Rifiuto`                         | `Da definire dal server` |
+| **Interruzione della Connessione Remota**         | `Rifiuto + Stalling`              | `Da definire dal server` |
+| **Riavvio o Spegnimento non Autorizzato**         | `Rifiuto + Stalling`              | `Da definire dal server` |
+| **Ostruzionismo Attivo/Passivo**                  | `Rifiuto + Stalling`              | `Da definire dal server` |
+| **Utilizzo di Ambienti Virtualizzati (VM)**       | `Virtual Machine`                 | `Da definire dal server` |
+| **Esecuzioni "Fileless"**                         | `Cheating SS`                     | `Da definire dal server` |
+| **Utilizzo del Task Scheduler (per bypass)**      | `Cheating SS`                     | `Da definire dal server` |
+| **Utilizzo di ADS e WMIC (per bypass)**           | `Cheating SS`                     | `Da definire dal server` |
+| **Process Hollowing**                             | `Cheating SS`                     | `Da definire dal server` |
 
 ***
 
