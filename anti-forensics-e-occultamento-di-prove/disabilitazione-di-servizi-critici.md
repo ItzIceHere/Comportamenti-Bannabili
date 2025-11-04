@@ -67,7 +67,7 @@ La procedura standard per verificare lo stato di un servizio da parte di un play
 La disabilitazione intenzionale di uno o più dei servizi sopra elencati durante una sessione di gioco o immediatamente prima di un controllo è considerata un tentativo di ostacolare l'indagine e nascondere le prove.
 
 {% hint style="danger" %}
-**Motivazione:** `TODO`
+**Motivazione:** `Processi Disabilitati`
 
 **SANZIONE:** `TODO`
 {% endhint %}

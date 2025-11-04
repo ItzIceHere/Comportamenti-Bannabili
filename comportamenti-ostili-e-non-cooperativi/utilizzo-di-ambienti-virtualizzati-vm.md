@@ -23,7 +23,7 @@ In pratica, è come se lo staffer stesse controllando un computer "finto" dentro
 L'utilizzo di una macchina virtuale per giocare o durante un controllo è considerato un'infrazione gravissima, equivalente a un tentativo di bypass premeditato e a un'ostruzione diretta dell'indagine.
 
 {% hint style="danger" %}
-**Motivazione:** `TODO`
+**Motivazione:** `Virtual Machine`
 
 **SANZIONE:** `TODO`
 {% endhint %}

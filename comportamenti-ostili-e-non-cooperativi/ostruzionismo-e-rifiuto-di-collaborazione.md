@@ -50,7 +50,7 @@ Uno screenshare si basa su un principio di collaborazione, seppur forzata, tra l
 L'ostruzionismo e il rifiuto di collaborazione sono azioni che minano l'autorità dello staff e l'integrità del processo di controllo.
 
 {% hint style="danger" %}
-**Motivazione:** `TODO`
+**Motivazione:** `Rifiuto` o `Rifiuto + Stalling`
 
 **SANZIONE:** `TODO: Definire sanzioni diverse in base alla gravità.`
 {% endhint %}

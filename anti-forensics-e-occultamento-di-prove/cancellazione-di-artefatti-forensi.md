@@ -35,7 +35,7 @@ La cancellazione di artefatti è una delle azioni più gravi che un player possa
 La cancellazione di uno o più degli artefatti forensi sopra elencati è considerata una grave infrazione, in quanto dimostra l'intenzione di nascondere attività illecite e di ostacolare il lavoro dello staff.
 
 {% hint style="danger" %}
-**Motivazione:** `TODO`
+**Motivazion: `Pulizia degli Artefatti`**
 
 **SANZIONE:** `TODO`
 {% endhint %}

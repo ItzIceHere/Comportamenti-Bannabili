@@ -47,7 +47,7 @@ Tuttavia, **è considerata un'infrazione l'esecuzione di qualsiasi file da un vo
 L'utilizzo di queste tecniche per nascondere o rendere inaccessibili le prove è considerato un'infrazione grave, poiché dimostra un chiaro intento di eludere il controllo.
 
 {% hint style="danger" %}
-**Motivazione:** `TODO`
+**Motivazione:** `Occultamento di Prove`
 
 **SANZIONE:** `TODO`&#x20;
 {% endhint %}
