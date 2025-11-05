@@ -25,5 +25,5 @@ L'utilizzo di una macchina virtuale per giocare o durante un controllo è consid
 {% hint style="danger" %}
 **Motivazione:** `Virtual Machine`
 
-**SANZIONE:** `TODO`
+**SANZIONE:** `30d`
 {% endhint %}

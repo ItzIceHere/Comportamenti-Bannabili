@@ -52,5 +52,5 @@ L'ostruzionismo e il rifiuto di collaborazione sono azioni che minano l'autorit√
 {% hint style="danger" %}
 **Motivazione:** `Rifiuto` o `Rifiuto + Stalling`
 
-**SANZIONE:** `TODO: Definire sanzioni diverse in base alla gravit√†.`
+**SANZIONE:** `14d` oppure `20d`
 {% endhint %}

@@ -31,5 +31,5 @@ La manipolazione dei metadati di un file è un'azione deliberata che richiede co
 {% hint style="danger" %}
 **Motivazione: `Alterazione di Prove`**
 
-**SANZIONE:** `TODO`
+**SANZIONE:** `20d`
 {% endhint %}

@@ -49,5 +49,5 @@ L'utilizzo di una qualsiasi delle tecniche descritte in questa pagina, **o di qu
 {% hint style="danger" %}
 **Motivazione:** `Cheating SS`&#x20;
 
-**SANZIONE:** `TODO`
+**SANZIONE:** `30d`
 {% endhint %}

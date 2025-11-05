@@ -15,7 +15,7 @@ Le sanzioni elencate di seguito sono soggette a revisione da parte del SS Manage
 | Infrazione                                        | Motivazione Ufficiale Consigliata | Durata Consigliata |
 | ------------------------------------------------- | --------------------------------- | ------------------ |
 | Ammissione                                        | `Ammissione`                      | `7d`               |
-| **Disabilitazione di Servizi Critici**            | `Processi Disabilitati`           | `7d`               |
+| **Disabilitazione di Servizi Critici**            | `Processi Disabilitati`           | `10d`              |
 | **Cancellazione di Artefatti Forensi**            | `Pulizia di Artefatti`            | `14d`              |
 | **Manipolazione di Timestamp (Timestomping)**     | `Alterazione di Prove`            | `20d`              |
 | **Manipolazione di Attributi (es. Read-Only)**    | `Alterazione di Prove`            | `14d`              |

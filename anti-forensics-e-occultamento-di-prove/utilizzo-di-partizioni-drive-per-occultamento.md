@@ -49,7 +49,7 @@ L'utilizzo di queste tecniche per nascondere o rendere inaccessibili le prove è
 {% hint style="danger" %}
 **Motivazione:** `Occultamento di Prove`
 
-**SANZIONE:** `TODO`&#x20;
+**SANZIONE:** `20d`
 {% endhint %}
 
 > **Nota:** Se durante un controllo viene scoperto un volume cifrato montato, e il player si rifiuta di fornire la password per l'analisi, tale rifiuto può essere considerato equivalente a un'interruzione del controllo o a un'ammissione di occultamento di prove, a seconda del regolamento specifico del server.

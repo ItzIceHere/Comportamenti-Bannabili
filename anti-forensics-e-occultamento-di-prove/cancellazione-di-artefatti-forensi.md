@@ -37,7 +37,7 @@ La cancellazione di uno o più degli artefatti forensi sopra elencati è conside
 {% hint style="danger" %}
 **Motivazion: `Pulizia degli Artefatti`**
 
-**SANZIONE:** `TODO`
+**SANZIONE:** `14d`
 {% endhint %}
 
 > **Nota:** La presenza di software di pulizia automatica (es. CCleaner) non è una giustificazione. È responsabilità del player assicurarsi che tali programmi non vengano eseguiti durante la sessione attuale (dall'avvio del pc), in quanto la loro azione equivale a una eliminazione manuale delle prove.

@@ -69,7 +69,7 @@ La disabilitazione intenzionale di uno o più dei servizi sopra elencati durante
 {% hint style="danger" %}
 **Motivazione:** `Processi Disabilitati`
 
-**SANZIONE:** `TODO`
+**SANZIONE:** `10d`
 {% endhint %}
 
 > **Nota:** Se un player sostiene che un servizio è stato disabilitato da un "optimizer" o per motivi di performance, la responsabilità ricade comunque su di lui. In un ambiente competitivo come quello di Titanet, è dovere del player assicurarsi che il proprio sistema sia configurato in modo da non interferire con le procedure di controllo standard.
