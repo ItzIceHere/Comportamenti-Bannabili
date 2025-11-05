@@ -12,22 +12,23 @@ Le sanzioni elencate di seguito sono soggette a revisione da parte del SS Manage
 
 #### Tabella delle Infrazioni e Sanzioni Consigliate
 
-| Infrazione                                        | Motivazione Ufficiale Consigliata | Durata Consigliata       |
-| ------------------------------------------------- | --------------------------------- | ------------------------ |
-| **Disabilitazione di Servizi Critici**            | `Processi Disabilitati`           | `Da definire dal server` |
-| **Cancellazione di Artefatti Forensi**            | `Pulizia di Artefatti`            | `Da definire dal server` |
-| **Manipolazione di Timestamp (Timestomping)**     | `Alterazione di Prove`            | `Da definire dal server` |
-| **Manipolazione di Attributi (es. Read-Only)**    | `Alterazione di Prove`            | `Da definire dal server` |
-| **Utilizzo di Partizioni/Drive per Occultamento** | `Occultamento di Prove`           | `Da definire dal server` |
-| **Rifiuto Esplicito del Controllo**               | `Rifiuto`                         | `Da definire dal server` |
-| **Interruzione della Connessione Remota**         | `Rifiuto + Stalling`              | `Da definire dal server` |
-| **Riavvio o Spegnimento non Autorizzato**         | `Rifiuto + Stalling`              | `Da definire dal server` |
-| **Ostruzionismo Attivo/Passivo**                  | `Rifiuto + Stalling`              | `Da definire dal server` |
-| **Utilizzo di Ambienti Virtualizzati (VM)**       | `Virtual Machine`                 | `Da definire dal server` |
-| **Esecuzioni "Fileless"**                         | `Cheating SS`                     | `Da definire dal server` |
-| **Utilizzo del Task Scheduler (per bypass)**      | `Cheating SS`                     | `Da definire dal server` |
-| **Utilizzo di ADS e WMIC (per bypass)**           | `Cheating SS`                     | `Da definire dal server` |
-| **Process Hollowing**                             | `Cheating SS`                     | `Da definire dal server` |
+| Infrazione                                        | Motivazione Ufficiale Consigliata | Durata Consigliata |
+| ------------------------------------------------- | --------------------------------- | ------------------ |
+| Ammissione                                        | `Ammissione`                      | `7d`               |
+| **Disabilitazione di Servizi Critici**            | `Processi Disabilitati`           | `7d`               |
+| **Cancellazione di Artefatti Forensi**            | `Pulizia di Artefatti`            | `14d`              |
+| **Manipolazione di Timestamp (Timestomping)**     | `Alterazione di Prove`            | `20d`              |
+| **Manipolazione di Attributi (es. Read-Only)**    | `Alterazione di Prove`            | `14d`              |
+| **Utilizzo di Partizioni/Drive per Occultamento** | `Occultamento di Prove`           | `20d`              |
+| **Rifiuto Esplicito del Controllo**               | `Rifiuto`                         | `14d`              |
+| **Interruzione della Connessione Remota**         | `Rifiuto + Stalling`              | `20d`              |
+| **Riavvio o Spegnimento non Autorizzato**         | `Rifiuto + Stalling`              | `20d`              |
+| **Ostruzionismo Attivo/Passivo**                  | `Rifiuto + Stalling`              | `20d`              |
+| **Utilizzo di Ambienti Virtualizzati (VM)**       | `Virtual Machine`                 | `30d`              |
+| **Esecuzioni "Fileless"**                         | `Cheating SS`                     | `30d`              |
+| **Utilizzo del Task Scheduler (per bypass)**      | `Cheating SS`                     | `30d`              |
+| **Utilizzo di ADS e WMIC (per bypass)**           | `Cheating SS`                     | `30d`              |
+| **Process Hollowing**                             | `Cheating SS`                     | `30d`              |
 
 ***
 
