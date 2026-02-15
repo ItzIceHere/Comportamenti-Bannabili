@@ -47,7 +47,7 @@ Quelli elencati di seguito sono solo alcuni esempi delle molteplici tipologie di
 L'utilizzo di una qualsiasi delle tecniche descritte in questa pagina, **o di qualsiasi altra tecnica di bypass avanzato non elencata**, dimostra una chiara premeditazione e un alto livello di competenza finalizzato a eludere i controlli. Per questo motivo, è considerata una delle infrazioni più gravi.
 
 {% hint style="danger" %}
-**Motivazione:** `Cheating SS`&#x20;
+**Motivazione:** `Bypass Attempt`
 
 **SANZIONE:** `30d`
 {% endhint %}
