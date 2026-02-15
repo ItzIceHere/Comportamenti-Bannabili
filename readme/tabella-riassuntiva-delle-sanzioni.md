@@ -10,7 +10,7 @@ Le sanzioni elencate di seguito sono soggette a revisione da parte del SS Manage
 
 ***
 
-#### Tabella delle Infrazioni e Sanzioni Consigliate
+#### Tabella delle Infrazioni
 
 | Infrazione                                        | Motivazione Ufficiale Consigliata | Durata Consigliata |
 | ------------------------------------------------- | --------------------------------- | ------------------ |
