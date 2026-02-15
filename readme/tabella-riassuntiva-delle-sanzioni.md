@@ -14,21 +14,22 @@ Le sanzioni elencate di seguito sono soggette a revisione da parte del SS Manage
 
 | Infrazione                                        | Motivazione Ufficiale Consigliata | Durata Consigliata |
 | ------------------------------------------------- | --------------------------------- | ------------------ |
-| Ammissione                                        | `Ammissione`                      | `7d`               |
+| **Ammissione**                                    | `Ammissione`                      | `7d`               |
+| Cheat trovato durante il controllo                | `Cheating SS`                     | `15d`              |
 | **Disabilitazione di Servizi Critici**            | `Processi Disabilitati`           | `10d`              |
-| **Cancellazione di Artefatti Forensi**            | `Pulizia di Artefatti`            | `14d`              |
+| **Cancellazione di Artefatti Forensi**            | `Pulizia di Artefatti`            | `12d`              |
 | **Manipolazione di Timestamp (Timestomping)**     | `Alterazione di Prove`            | `20d`              |
-| **Manipolazione di Attributi (es. Read-Only)**    | `Alterazione di Prove`            | `14d`              |
+| **Manipolazione di Attributi (es. Read-Only)**    | `Alterazione di Prove`            | `20d`              |
 | **Utilizzo di Partizioni/Drive per Occultamento** | `Occultamento di Prove`           | `20d`              |
-| **Rifiuto Esplicito del Controllo**               | `Rifiuto`                         | `14d`              |
+| **Rifiuto Esplicito del Controllo**               | `Rifiuto`                         | `15d`              |
 | **Interruzione della Connessione Remota**         | `Rifiuto + Stalling`              | `20d`              |
 | **Riavvio o Spegnimento non Autorizzato**         | `Rifiuto + Stalling`              | `20d`              |
 | **Ostruzionismo Attivo/Passivo**                  | `Rifiuto + Stalling`              | `20d`              |
 | **Utilizzo di Ambienti Virtualizzati (VM)**       | `Virtual Machine`                 | `30d`              |
-| **Esecuzioni "Fileless"**                         | `Cheating SS`                     | `30d`              |
-| **Utilizzo del Task Scheduler (per bypass)**      | `Cheating SS`                     | `30d`              |
-| **Utilizzo di ADS e WMIC (per bypass)**           | `Cheating SS`                     | `30d`              |
-| **Process Hollowing**                             | `Cheating SS`                     | `30d`              |
+| **Esecuzioni "Fileless"**                         | `Bypass Attempt`                  | `30d`              |
+| **Utilizzo del Task Scheduler (per bypass)**      | `Bypass Attempt`                  | `30d`              |
+| **Utilizzo di ADS e WMIC (per bypass)**           | `Bypass Attempt`                  | `30d`              |
+| **Process Hollowing**                             | `Bypass Attempt`                  | `30d`              |
 
 ***
 
