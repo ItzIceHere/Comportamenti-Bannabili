@@ -49,5 +49,5 @@ L'utilizzo di una qualsiasi delle tecniche descritte in questa pagina, **o di qu
 {% hint style="danger" %}
 **Motivazione:** `Bypass Attempt`
 
-**SANZIONE:** `30d`
+**SANZIONE:** `ban permanente`
 {% endhint %}
