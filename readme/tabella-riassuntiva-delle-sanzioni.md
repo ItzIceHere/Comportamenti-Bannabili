@@ -25,11 +25,11 @@ Le sanzioni elencate di seguito sono soggette a revisione da parte del SS Manage
 | **Interruzione della Connessione Remota**         | `Rifiuto + Stalling`              | `20d`              |
 | **Riavvio o Spegnimento non Autorizzato**         | `Rifiuto + Stalling`              | `20d`              |
 | **Ostruzionismo Attivo/Passivo**                  | `Rifiuto + Stalling`              | `20d`              |
-| **Utilizzo di Ambienti Virtualizzati (VM)**       | `Virtual Machine`                 | `30d`              |
-| **Esecuzioni "Fileless"**                         | `Bypass Attempt`                  | `30d`              |
-| **Utilizzo del Task Scheduler (per bypass)**      | `Bypass Attempt`                  | `30d`              |
-| **Utilizzo di ADS e WMIC (per bypass)**           | `Bypass Attempt`                  | `30d`              |
-| **Process Hollowing**                             | `Bypass Attempt`                  | `30d`              |
+| **Utilizzo di Ambienti Virtualizzati (VM)**       | `Virtual Machine`                 | `ban permanente`   |
+| **Esecuzioni "Fileless"**                         | `Bypass Attempt`                  | `ban permanente`   |
+| **Utilizzo del Task Scheduler (per bypass)**      | `Bypass Attempt`                  | `ban permanente`   |
+| **Utilizzo di ADS e WMIC (per bypass)**           | `Bypass Attempt`                  | `ban permanente`   |
+| **Process Hollowing**                             | `Bypass Attempt`                  | `ban permanente`   |
 
 ***
 
