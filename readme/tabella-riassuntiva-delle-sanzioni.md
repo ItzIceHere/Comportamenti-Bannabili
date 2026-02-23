@@ -15,7 +15,8 @@ Le sanzioni elencate di seguito sono soggette a revisione da parte del SS Manage
 | Infrazione                                        | Motivazione Ufficiale Consigliata | Durata Consigliata |
 | ------------------------------------------------- | --------------------------------- | ------------------ |
 | **Ammissione**                                    | `Ammissione`                      | `7d`               |
-| Cheat trovato durante il controllo                | `Cheating SS`                     | `15d`              |
+| **Impossibilità**                                 | **Impossibilità**                 | `15d`              |
+| **Cheat trovato durante il controllo**            | `Cheating SS`                     | `15d`              |
 | **Disabilitazione di Servizi Critici**            | `Processi Disabilitati`           | `10d`              |
 | **Cancellazione di Artefatti Forensi**            | `Pulizia di Artefatti`            | `12d`              |
 | **Manipolazione di Timestamp (Timestomping)**     | `Alterazione di Prove`            | `20d`              |
